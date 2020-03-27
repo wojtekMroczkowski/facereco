@@ -1,0 +1,2 @@
+# facereco
+Face recognition app
